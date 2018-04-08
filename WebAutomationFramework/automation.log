@@ -1,0 +1,122 @@
+04/08/2018 08:56:32 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:33 PM - cBookSearch - INFO: Test 1 : test_VerifyTitle
+04/08/2018 08:56:33 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:33 PM - cBookSearch - INFO: 
+
+04/08/2018 08:56:35 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:35 PM - cTestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+04/08/2018 08:56:35 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:35 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:35 PM - cTestStatus - INFO: test_VerifyTitle ### TEST SUCCESSFUL
+04/08/2018 08:56:35 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:35 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:35 PM - cBookSearch - INFO: Test 2 : test_VerifyNoResults
+04/08/2018 08:56:35 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:35 PM - cBookSearch - INFO: 
+
+04/08/2018 08:56:41 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:41 PM - cTestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + No Result Verification
+04/08/2018 08:56:41 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:41 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:41 PM - cTestStatus - INFO: test_VerifyNoResults ### TEST SUCCESSFUL
+04/08/2018 08:56:41 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:41 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:41 PM - cBookSearch - INFO: Test 3 : test_VerifyBookSearch
+04/08/2018 08:56:41 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:41 PM - cBookSearch - INFO: 
+
+04/08/2018 08:56:54 PM - cBookSearch - INFO: 
+
+04/08/2018 08:56:54 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:56:54 PM - cBookSearch - INFO:  BOOK INFORMATION 
+04/08/2018 08:56:54 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Book Title : Catalog It!: A Guide to Cataloging School Library Materials, 3rd Edition
+04/08/2018 08:56:54 PM - cBookSearch - INFO: By : Allison G. Kaplan
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Contribution : (Author)
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Ratings : 3.8 out of 5 stars
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Available modes and price :
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Kindle : $60.00
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Paperback : $24.00 - $60.00
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Other Sellers : See all 2 versions
+04/08/2018 08:56:54 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:54 PM - cTestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Book Information
+04/08/2018 08:56:54 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:54 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:54 PM - cTestStatus - INFO: test_3_VerifyBookSearch ### TEST SUCCESSFUL
+04/08/2018 08:56:54 PM - cTestStatus - INFO: 
+
+04/08/2018 08:56:54 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:54 PM - cBookSearch - INFO: Test 3 : test_VerifyBookSearch
+04/08/2018 08:56:54 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:56:54 PM - cBookSearch - INFO: 
+
+04/08/2018 08:57:10 PM - cBookSearch - INFO: 
+
+04/08/2018 08:57:10 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:57:10 PM - cBookSearch - INFO:  BOOK INFORMATION 
+04/08/2018 08:57:10 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Book Title : Much Ado About Nothing (Folger Shakespeare Library)
+04/08/2018 08:57:10 PM - cBookSearch - INFO: By : William Shakespeare
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Contribution : (Author),
+04/08/2018 08:57:10 PM - cBookSearch - INFO: By : Barbara A. Mowat
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Contribution : (Editor),
+04/08/2018 08:57:10 PM - cBookSearch - INFO: By : Paul Werstine
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Contribution : (Editor)
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Ratings : 4.4 out of 5 stars
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Available modes and price :
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Kindle : $0.99
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Hardcover : $10.99
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Paperback : $3.69
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Mass Market Paperback : $5.39
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Other Sellers : See all 594 versions
+04/08/2018 08:57:10 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:10 PM - cTestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Book Information
+04/08/2018 08:57:10 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:10 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:10 PM - cTestStatus - INFO: test_3_VerifyBookSearch ### TEST SUCCESSFUL
+04/08/2018 08:57:10 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:10 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:57:10 PM - cBookSearch - INFO: Test 3 : test_VerifyBookSearch
+04/08/2018 08:57:10 PM - cBookSearch - INFO: ******************************
+04/08/2018 08:57:10 PM - cBookSearch - INFO: 
+
+04/08/2018 08:57:28 PM - cBookSearch - INFO: 
+
+04/08/2018 08:57:28 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:57:28 PM - cBookSearch - INFO:  BOOK INFORMATION 
+04/08/2018 08:57:28 PM - cBookSearch - INFO: ------------------
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Book Title : The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+04/08/2018 08:57:28 PM - cBookSearch - INFO: By : Stephen R. Covey
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Contribution : (Author)
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Ratings : 4.5 out of 5 stars
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Available modes and price :
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Kindle : $3.08
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Hardcover : $20.96
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Paperback : $10.25
+04/08/2018 08:57:28 PM - cBookSearch - INFO: Audiobook : $0.00
+04/08/2018 08:57:28 PM - cBookSearch - INFO: MP3 CD : $13.49
+04/08/2018 08:57:28 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:28 PM - cTestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Book Information
+04/08/2018 08:57:28 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:28 PM - cTestStatus - INFO: 
+
+04/08/2018 08:57:28 PM - cTestStatus - INFO: test_3_VerifyBookSearch ### TEST SUCCESSFUL
+04/08/2018 08:57:28 PM - cTestStatus - INFO: 
+
